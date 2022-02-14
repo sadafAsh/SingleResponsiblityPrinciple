@@ -1,0 +1,10 @@
+DEBUG [main] 2022-02-14T13:56:40,566  (line ) Preparing order for customer - Johjnwho has ordered Pizza4
+DEBUG [main] 2022-02-14T13:56:40,568  (line ) Order with order id Pizza4_496has a total bill amount of 100
+DEBUG [main] 2022-02-14T13:56:40,568  (line ) Delivery Order
+DEBUG [main] 2022-02-14T13:56:40,568  (line ) Order with order id as Pizza4_496being delivered to Johjn
+Order is to be delivered to Pune
+DEBUG [main] 2022-02-14T13:56:40,568  (line ) Preparing order for customer - Johnwho has ordered Pizza
+DEBUG [main] 2022-02-14T13:56:40,568  (line ) Order with order id Pizza_136has a total bill amount of 400
+DEBUG [main] 2022-02-14T13:56:40,568  (line ) Delivery Order
+DEBUG [main] 2022-02-14T13:56:40,569  (line ) Order with order id as Pizza_136being delivered to John
+Order is to be delivered to Pune3
