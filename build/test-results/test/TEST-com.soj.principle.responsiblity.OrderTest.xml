@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.soj.principle.responsiblity.OrderTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-02-14T18:00:53" hostname="DESKTOP-H3C67DB" time="0.003">
+  <properties/>
+  <testcase name="testToGetCustomer()" classname="com.soj.principle.responsiblity.OrderTest" time="0.0"/>
+  <testcase name="testToGetItemName()" classname="com.soj.principle.responsiblity.OrderTest" time="0.0"/>
+  <testcase name="testToGetItemPrice()" classname="com.soj.principle.responsiblity.OrderTest" time="0.001"/>
+  <testcase name="testToPrepareOrder()" classname="com.soj.principle.responsiblity.OrderTest" time="0.001"/>
+  <testcase name="testToGetQuantity()" classname="com.soj.principle.responsiblity.OrderTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
