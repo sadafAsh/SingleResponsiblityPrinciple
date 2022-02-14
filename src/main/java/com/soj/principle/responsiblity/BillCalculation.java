@@ -8,11 +8,17 @@ public class BillCalculation {
         this.order = order;
     }
 
-    public String calculateBill() {
+    public int calculateTotalAmt(){
 
         int totalAmt = this.order.getItemPrice() *
                 this.order.getQuantity();
-        this.order.setTotalBillAmt(totalAmt);
+         order.setTotalBillAmt(totalAmt);
+         return totalAmt;
+    }
+
+    public String calculateBill() {
+
+       this.order.setTotalBillAmt(calculateTotalAmt());
         return "Order with order id " +
                 this.order.getOrderId() +
                 "has a total bill amount of " +
