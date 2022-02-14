@@ -19,7 +19,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="256AYGIyTlADhSNKtWyU310NqaM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -28,7 +37,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RecentsManager">
@@ -79,6 +88,56 @@
       <option name="presentableId" value="Default" />
       <updated>1644837207553</updated>
     </task>
+    <task id="LOCAL-00001" summary="customer commit">
+      <created>1644847129003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644847129003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="customer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="customer commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1325" height="220" key="GridCell.Tab.0.bottom" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.0.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.0.center" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.0.center/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.0.left" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.0.left/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.0.right" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.0.right/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.1.bottom" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.bottom/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.1.center" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.center/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.1.left" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.left/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state width="1325" height="220" key="GridCell.Tab.1.right" timestamp="1644847199979">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state width="1325" height="220" key="GridCell.Tab.1.right/0.0.1368.720@0.0.1368.720" timestamp="1644847199979" />
+    <state x="367" y="163" key="git4idea.merge.GitPullDialog" timestamp="1644847260996">
+      <screen x="0" y="0" width="1368" height="720" />
+    </state>
+    <state x="367" y="163" key="git4idea.merge.GitPullDialog/0.0.1368.720@0.0.1368.720" timestamp="1644847260996" />
   </component>
 </project>
