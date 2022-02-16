@@ -1,10 +1,12 @@
 package com.soj.principle.responsiblity;
 
 
+
+import java.security.SecureRandom;
 import java.util.Random;
 
 public class Order {
-    Random random = new Random();
+    Random random = new SecureRandom();
     private Customer customer;
     private String orderId;
     private String itemName;
